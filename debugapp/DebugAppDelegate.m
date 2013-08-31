@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import "DebugAppDelegate.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 #import "PKParserFactory.h"
 #import "TDJsonParser.h"
 #import "TDFastJsonParser.h"

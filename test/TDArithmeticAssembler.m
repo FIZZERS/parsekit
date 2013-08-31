@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import "TDArithmeticAssembler.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 @implementation TDArithmeticAssembler
 

@@ -7,7 +7,7 @@
 //
 
 #import "PKParserFactory.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 //#import "PKGrammarParser.h"
 #import "ParseKitParser.h"
 #import "NSString+ParseKitAdditions.h"

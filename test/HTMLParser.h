@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     HTML_TOKEN_KIND_SCRIPTTAGNAME = 14,

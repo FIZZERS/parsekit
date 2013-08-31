@@ -14,7 +14,7 @@
 
 #import <Foundation/Foundation.h>
 #import <SenTestingKit/SenTestingKit.h>
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 #define TDTrue(e) STAssertTrue((e), @"")
 #define TDFalse(e) STAssertFalse((e), @"")

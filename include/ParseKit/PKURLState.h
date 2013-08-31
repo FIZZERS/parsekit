@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKTokenizerState.h>
+#import "ParseKit/PKTokenizerState.h"
 
 /*!
     @class      PKURLState 

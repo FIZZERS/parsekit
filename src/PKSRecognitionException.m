@@ -6,7 +6,7 @@
 //
 //
 
-#import <ParseKit/PKSRecognitionException.h>
+#import "ParseKit/PKSRecognitionException.h"
 
 @implementation PKSRecognitionException
 

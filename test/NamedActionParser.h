@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     NAMEDACTION_TOKEN_KIND_A = 14,

@@ -12,10 +12,10 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKTokenizerState.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKReader.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/PKTokenizerState.h"
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKReader.h"
+#import "ParseKit/PKTypes.h"
 
 #define STATE_COUNT 256
 

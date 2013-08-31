@@ -12,10 +12,10 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKParser.h>
-#import <ParseKit/PKAssembly.h>
-#import <ParseKit/PKTokenAssembly.h>
-#import <ParseKit/PKTokenizer.h>
+#import "ParseKit/PKParser.h"
+#import "ParseKit/PKAssembly.h"
+#import "ParseKit/PKTokenAssembly.h"
+#import "ParseKit/PKTokenizer.h"
 
 @interface PKAssembly ()
 - (BOOL)hasMore;

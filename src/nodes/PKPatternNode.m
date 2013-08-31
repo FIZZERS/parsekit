@@ -7,7 +7,7 @@
 //
 
 #import "PKPatternNode.h"
-#import <ParseKit/PKPattern.h>
+#import "ParseKit/PKPattern.h"
 
 @implementation PKPatternNode
 

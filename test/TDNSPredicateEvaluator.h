@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 @class TDNSPredicateEvaluator;
 

@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/PKTypes.h"
 
 @class PKToken;
 @class PKTokenizer;

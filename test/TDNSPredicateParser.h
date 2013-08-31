@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     TDNSPREDICATE_TOKEN_KIND_ALL = 14,

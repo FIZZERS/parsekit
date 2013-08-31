@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     DELIMITED_TOKEN_KIND_S = 14,

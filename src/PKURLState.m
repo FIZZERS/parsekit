@@ -6,11 +6,11 @@
 //  Copyright 2010 Todd Ditchendorf. All rights reserved.
 //
 
-#import <ParseKit/PKURLState.h>
-#import <ParseKit/PKReader.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKToken.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/PKURLState.h"
+#import "ParseKit/PKReader.h"
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKToken.h"
+#import "ParseKit/PKTypes.h"
 
 // Gruber original
 //  \b(([\w-]+://?|www[.])[^\s()<>]+(?:\([\w\d]+\)|([^[:punct:]\s]|/)))

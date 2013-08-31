@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     METHODSFACTORED_TOKEN_KIND_INT = 14,

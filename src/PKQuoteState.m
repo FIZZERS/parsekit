@@ -12,10 +12,10 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKQuoteState.h>
-#import <ParseKit/PKReader.h>
-#import <ParseKit/PKToken.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/PKQuoteState.h"
+#import "ParseKit/PKReader.h"
+#import "ParseKit/PKToken.h"
+#import "ParseKit/PKTypes.h"
 
 @interface PKToken ()
 @property (nonatomic, readwrite) NSUInteger offset;

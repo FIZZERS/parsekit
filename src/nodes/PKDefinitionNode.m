@@ -7,7 +7,7 @@
 //
 
 #import "PKDefinitionNode.h"
-#import <ParseKit/PKToken.h>
+#import "ParseKit/PKToken.h"
 
 @implementation PKDefinitionNode
 

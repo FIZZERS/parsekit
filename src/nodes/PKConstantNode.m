@@ -7,7 +7,7 @@
 //
 
 #import "PKConstantNode.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 static NSDictionary *sClassTab = nil;
 

@@ -7,11 +7,11 @@
 //
 
 #if PK_PLATFORM_TWITTER_STATE
-#import <ParseKit/PKTwitterState.h>
-#import <ParseKit/PKReader.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKToken.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/PKTwitterState.h"
+#import "ParseKit/PKReader.h"
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKToken.h"
+#import "ParseKit/PKTypes.h"
 
 @interface PKToken ()
 @property (nonatomic, readwrite) NSUInteger offset;

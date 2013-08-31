@@ -12,12 +12,12 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/TDSlashStarState.h>
-#import <ParseKit/TDSlashState.h>
-#import <ParseKit/PKReader.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKToken.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/TDSlashStarState.h"
+#import "ParseKit/TDSlashState.h"
+#import "ParseKit/PKReader.h"
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKToken.h"
+#import "ParseKit/PKTypes.h"
 
 @interface PKTokenizerState ()
 - (void)resetWithReader:(PKReader *)r;

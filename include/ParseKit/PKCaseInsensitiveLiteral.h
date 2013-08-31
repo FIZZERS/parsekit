@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKLiteral.h>
+#import "ParseKit/PKLiteral.h"
 
 /*!
     @class      PKCaseInsensitiveLiteral 

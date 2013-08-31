@@ -6,7 +6,7 @@
 //
 //
 
-#import <ParseKit/PKParser.h>
+#import "ParseKit/PKParser.h"
 
 @interface PKCompositeParser : PKParser {
     

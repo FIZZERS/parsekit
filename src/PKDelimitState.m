@@ -12,13 +12,13 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKDelimitState.h>
-#import <ParseKit/PKReader.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKToken.h>
-#import <ParseKit/PKWhitespaceState.h>
-#import <ParseKit/PKSymbolRootNode.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/PKDelimitState.h"
+#import "ParseKit/PKReader.h"
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKToken.h"
+#import "ParseKit/PKWhitespaceState.h"
+#import "ParseKit/PKSymbolRootNode.h"
+#import "ParseKit/PKTypes.h"
 
 #import "PKDelimitDescriptorCollection.h"
 #import "PKDelimitDescriptor.h"

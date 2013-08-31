@@ -8,7 +8,7 @@
 
 #import "TDRegexMatcher.h"
 #import "TDRegexAssembler.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 @interface PKParserFactory ()
 @property (nonatomic, assign) BOOL wantsCharacters;

@@ -14,7 +14,7 @@
 
 #import "DemoBaseViewController.h"
 #import "TDSourceCodeTextView.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 #define PKAssertMainThread() NSAssert1([NSThread isMainThread], @"%s should be called on the main thread only.", __PRETTY_FUNCTION__);
 #define PKAssertNotMainThread() NSAssert1(![NSThread isMainThread], @"%s should be called on the main thread only.", __PRETTY_FUNCTION__);

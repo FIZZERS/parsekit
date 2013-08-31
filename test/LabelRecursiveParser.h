@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     LABELRECURSIVE_TOKEN_KIND_EQUALS = 14,

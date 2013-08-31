@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKCollectionParser.h>
+#import "ParseKit/PKCollectionParser.h"
 
 /*!
     @class      PKIntersection

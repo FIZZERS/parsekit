@@ -7,7 +7,7 @@
 //
 
 #import "PKMultipleNode.h"
-#import <ParseKit/PKSequence.h>
+#import "ParseKit/PKSequence.h"
 
 @implementation PKMultipleNode
 

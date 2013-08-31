@@ -14,7 +14,7 @@
 
 #import "TDHtmlSyntaxHighlighter.h"
 #import "NSArray+ParseKitAdditions.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 @interface TDHtmlSyntaxHighlighter ()
 - (void)didMatchTag;

@@ -7,7 +7,7 @@
 //
 
 #import "PKResolutionPhaseVisitor.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 #import "NSString+ParseKitAdditions.h"
 
 @interface PKTerminal ()

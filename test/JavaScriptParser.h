@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     JAVASCRIPT_TOKEN_KIND_PIPE = 14,

@@ -14,7 +14,7 @@
 
 #import "TDGenericAssembler.h"
 #import "NSArray+ParseKitAdditions.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 @interface TDGenericAssembler ()
 - (void)didMatchTerminalNamed:(NSString *)name withAssembly:(PKAssembly *)a;

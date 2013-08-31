@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     JSON_TOKEN_KIND_FALSELITERAL = 14,

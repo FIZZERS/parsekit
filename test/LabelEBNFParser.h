@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     LABELEBNF_TOKEN_KIND_EQUALS = 14,

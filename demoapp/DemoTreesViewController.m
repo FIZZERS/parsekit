@@ -19,7 +19,7 @@
 #import "PKRuleNode.h"
 #import "PKTokenNode.h"
 #import "PKParseTreeAssembler.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 #import "JavaScriptSyntaxParser.h"
 #import "ExpressionSyntaxParser.h"

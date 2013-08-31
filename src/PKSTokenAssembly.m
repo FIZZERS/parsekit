@@ -12,9 +12,9 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKSTokenAssembly.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKToken.h>
+#import "ParseKit/PKSTokenAssembly.h"
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKToken.h"
 
 @interface PKAssembly ()
 @property (nonatomic, readwrite, retain) NSString *defaultCursor;

@@ -14,7 +14,7 @@
 
 #import "JSONAssembler.h"
 #import "NSArray+ParseKitAdditions.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 @implementation JSONAssembler
 

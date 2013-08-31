@@ -6,11 +6,11 @@
 //  Copyright 2010 Todd Ditchendorf. All rights reserved.
 //
 
-#import <ParseKit/PKEmailState.h>
-#import <ParseKit/PKReader.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKToken.h>
-#import <ParseKit/PKTypes.h>
+#import "ParseKit/PKEmailState.h"
+#import "ParseKit/PKReader.h"
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKToken.h"
+#import "ParseKit/PKTypes.h"
 
 @interface PKToken ()
 @property (nonatomic, readwrite) NSUInteger offset;

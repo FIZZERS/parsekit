@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKSymbolNode.h>
+#import "ParseKit/PKSymbolNode.h"
 
 @class PKReader;
 

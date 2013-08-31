@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKTokenizer.h>
-#import <ParseKit/PKTokenizer.h>
+#import "ParseKit/PKTokenizer.h"
+#import "ParseKit/PKTokenizer.h"
 
 @class PKToken;
 @class PKSTokenAssembly;

@@ -7,7 +7,7 @@
 //
 
 #import "PKDelimitedNode.h"
-#import <ParseKit/PKDelimitedString.h>
+#import "ParseKit/PKDelimitedString.h"
 
 @implementation PKDelimitedNode
 

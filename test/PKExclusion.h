@@ -12,7 +12,7 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKCollectionParser.h>
+#import "ParseKit/PKCollectionParser.h"
 
 @interface PKExclusion : PKCollectionParser {
     

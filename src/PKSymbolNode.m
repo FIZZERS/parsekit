@@ -12,8 +12,8 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKSymbolNode.h>
-#import <ParseKit/PKSymbolRootNode.h>
+#import "ParseKit/PKSymbolNode.h"
+#import "ParseKit/PKSymbolRootNode.h"
 
 @interface PKSymbolNode ()
 @property (nonatomic, readwrite, retain) NSString *ancestry;

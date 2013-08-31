@@ -7,7 +7,7 @@
 //
 
 #import "PKDefinitionPhaseVisitor.h"
-#import <ParseKit/PKCompositeParser.h>
+#import "ParseKit/PKCompositeParser.h"
 #import "NSString+ParseKitAdditions.h"
 #import "PKSTokenKindDescriptor.h"
 

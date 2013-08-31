@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     ELEMENTASSIGN_TOKEN_KIND_RBRACKET = 14,

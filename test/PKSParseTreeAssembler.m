@@ -7,9 +7,9 @@
 //
 
 #import "PKSParseTreeAssembler.h"
-#import <ParseKit/PKSParser.h>
-#import <ParseKit/PKSTokenAssembly.h>
-#import <ParseKit/PKToken.h>
+#import "ParseKit/PKSParser.h"
+#import "ParseKit/PKSTokenAssembly.h"
+#import "ParseKit/PKToken.h"
 
 #import "PKParseTree.h"
 #import "PKRuleNode.h"

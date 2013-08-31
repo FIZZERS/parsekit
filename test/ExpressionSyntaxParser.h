@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     EXPRESSIONSYNTAXPARSER_TOKEN_KIND_GE = 14,

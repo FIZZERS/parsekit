@@ -8,7 +8,7 @@
 
 #if PK_PLATFORM_TWITTER_STATE
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKTokenizerState.h>
+#import "ParseKit/PKTokenizerState.h"
 
 /*!
     @class      PKTwitterState

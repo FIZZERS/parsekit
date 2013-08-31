@@ -12,7 +12,7 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <ParseKit/PKAssembly.h>
+#import "ParseKit/PKAssembly.h"
 
 static NSString * const PKAssemblyDefaultDelimiter = @"/";
 static NSString * const PKAssemblyDefaultCursor = @"^";

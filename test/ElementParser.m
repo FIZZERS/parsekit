@@ -1,5 +1,5 @@
 #import "ElementParser.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 
 #define LT(i) [self LT:(i)]
 #define LA(i) [self LA:(i)]

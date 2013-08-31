@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import <Foundation/Foundation.h>
-#import <ParseKit/PKCompositeParser.h>
+#import "ParseKit/PKCompositeParser.h"
 
 /*!
     @class      PKRepetition 

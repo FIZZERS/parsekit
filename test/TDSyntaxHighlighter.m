@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #import "TDSyntaxHighlighter.h"
-#import <ParseKit/ParseKit.h>
+#import "ParseKit/ParseKit.h"
 #import "PKParserFactory.h"
 #import "TDMiniCSSAssembler.h"
 #import "TDGenericAssembler.h"

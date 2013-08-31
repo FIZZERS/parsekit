@@ -1,4 +1,4 @@
-#import <ParseKit/PKSParser.h>
+#import "ParseKit/PKSParser.h"
 
 enum {
     PARSEKIT_TOKEN_KIND_SYMBOL_TITLE = 14,
